@@ -84,7 +84,7 @@ git push --set-upstream origin <branch_name>
 <a href="https://github.com/VS-DYPIAN"><img src="https://dpu.edu.in/img/logo.png" width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                       **[Vaibhav Sawant](www.linkedin.com/in/vaibhav-sawant-683b20217/)**                                                                                                                                        |
-|   <a www.linkedin.com/in/vaibhav-sawant-683b20217/"><img src="https://dpu.edu.in/img/logo.png" width="32px" height="32px"></a> |</br>
+|   <a www.linkedin.com/in/vaibhav-sawant-683b20217/"><img src="https://media.licdn.com/dms/image/D4D03AQHOCbHP77at2A/profile-displayphoto-shrink_200_200/0/1675689545120?e=1681344000&v=beta&t=PS4YyzDJy-UAntFpIiuS13GUoL0TmOKbI3O2bH7vVRg" width="32px" height="32px"></a> |</br>
 
 #### Thanks goes to our valuable Contributors :
 <a href="https://github.com/VS-DYPIAN">
