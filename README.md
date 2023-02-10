@@ -81,7 +81,7 @@ git push --set-upstream origin <branch_name>
 
 ## Project Admin
 
-<a href="https://github.com/VS-DYPIAN"><img src=" <a" width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
+<a href="https://github.com/VS-DYPIAN"><img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws " width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                       **[Vaibhav Sawant](www.linkedin.com/in/vaibhav-sawant-683b20217/)**                                                                                                                                        |
 |   <img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws" width="32px" height="32px"> <a www.linkedin.com/in/vaibhav-sawant-683b20217/"></a> |</br>
